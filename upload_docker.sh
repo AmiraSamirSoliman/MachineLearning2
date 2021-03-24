@@ -10,7 +10,7 @@ dockerpath=amirasoliman89/machinelearning:tagname
 
 # Step 2:  
 # Authenticate & tag
-echo "Docker ID and Image: $dockerpath"
+echo "Docker ID and Image: "
 docker login --username amirasoliman89 --password amirasoliman89
 docker tag udacitypinzonimage amirasoliman89/machinelearning:tagname
 # Step 3:
