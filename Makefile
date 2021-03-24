@@ -23,7 +23,7 @@ test:
 lint:
 	# See local hadolint install instructions:   https://github.com/hadolint/hadolint
 	# This is linter for Dockerfiles
-	hadolint demos/flask-sklearn/Dockerfile
+	hadolint Dockerfile2
         #pylint --disable=R,C,W1203,W1202 app.py
 	#hadolint Dockerfile
 	# This is a linter for Python source code linter: https://www.pylint.org/
