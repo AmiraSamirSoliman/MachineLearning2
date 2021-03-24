@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=udacitypinzonimage
+dockerpath=amirasoliman89/machinelearning:tagname
 
 # Step 2:  
 # Authenticate & tag
