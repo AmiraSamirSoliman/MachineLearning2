@@ -7,7 +7,6 @@ nbval
 click
 flask
 sklearn
-hadolint
 requests
 numpy
 scikit-learn == 0.20.2
