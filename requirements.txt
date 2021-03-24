@@ -6,6 +6,7 @@ pandas
 nbval
 click
 flask
+sklearn
 requests
 numpy
 scikit-learn == 0.20.2
