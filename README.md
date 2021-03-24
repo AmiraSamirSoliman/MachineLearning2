@@ -1,5 +1,4 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/AmiraSamirSoliman/machinelearning.svg?style=svg)](https://app.circleci.com/pipelines/github/AmiraSamirSoliman/machinelearning)
-
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 # Cloud DevOps, Scaling Microservices
 
 The project's goal is to operationalize a machine learning microservice using kubernetes. The service serves out predictions (inference) about housing prices through API calls. The model has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.
