@@ -1,4 +1,4 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/AmiraSamirSoliman/machinelearning)]https://app.circleci.com/pipelines/github/AmiraSamirSoliman/machinelearning)
+[![CircleCI](https://app.circleci.com/pipelines/github/AmiraSamirSoliman/machinelearning.svg?style=svg)](https://app.circleci.com/pipelines/github/AmiraSamirSoliman/machinelearning)
 
 # Cloud DevOps, Scaling Microservices
 
