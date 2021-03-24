@@ -11,7 +11,7 @@ dockerpath=udacitypinzonimage
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker login --username amirasoliman89
+docker login --username amirasoliman89 --password amirasoliman89
 docker tag udacitypinzonimage amirasoliman89/machinelearning:tagname
 # Step 3:
 # Push image to a docker repository
