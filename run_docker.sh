@@ -2,7 +2,13 @@
 
 ## Complete the following steps to get Docker running locally
 
-#docker pull hadolint/hadolint
+docker pull hadolint/hadolint
+
+docker run --rm hadolint/hadolint hadolint --version
+Haskell Dockerfile Linter v1.9.0-0-g4c4881a
+
+docker run --rm -i hadolint/hadolint < Dockerfile
+
 # Step 1:
 # Build image and add a descriptive tag
 #docker build --tag=udacitypinzonimage .
